@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://im2.ezgif.com/tmp/ezgif-2-e547c515eb04.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://s9.gifyu.com/images/part2walkthrough.md.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [ScreenToGif].
 
